@@ -28,9 +28,7 @@ int main();
 
     printf("Lab 2 program \r\n");
     int max_term = 10;
-    //int term_1 = 0;
-    //int term_2 = 1;
-    //int next_term = 0;
+    
    
 
     for(int i=1;i<=max_term; i++){
